@@ -32,7 +32,9 @@ FlavourCraft is a mobile app created using React Native which offers individuali
 - Node.js and npm installed on your machine.
 - MongoDB instance (local or cloud-based).
 - Expo CLI for running the React Native app.
-- OpenAI API key.### Installation
+- OpenAI API key.
+
+### Installation
 
 1. **Clone the repository**
 
