@@ -145,7 +145,7 @@ View the generated recipe.
 
 ```bash
 flavourcraft/
-├── backend/
+├── Backend/
 │   ├── controllers/
 │   ├── models/
 │   ├── node_modules/
@@ -154,7 +154,7 @@ flavourcraft/
 │   ├── .env
 │   ├── app.js
 │   └──package.json
-├── frontend/
+├── RecipeApp/
 │   ├── .expo/
 │   ├── app/
 │   ├── assets/
