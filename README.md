@@ -65,7 +65,7 @@ node app.js
 
 Navigate to the Frontend directory.
 ```bash
-cd Frontend
+cd RecipeApp
 ```
 Install the frontend dependencies.
 ```bash
